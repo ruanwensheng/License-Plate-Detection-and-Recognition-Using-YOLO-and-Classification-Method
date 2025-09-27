@@ -1,5 +1,5 @@
 # Train and Deploy YOLO Models with Ultralytics to detect license plate
-## 🎥 YOLOv11 Vehicle Detection Demo
+## 🎥 YOLOv8 Vehicle Detection Demo
 <img width="1049" height="583" alt="image" src="https://github.com/user-attachments/assets/fcc2a13a-ab66-4e84-b416-dc1c263260ad" />
 
 ![Demo](demo1.gif)
