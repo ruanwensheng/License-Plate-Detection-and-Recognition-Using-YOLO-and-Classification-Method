@@ -1,0 +1,2 @@
+Requirement already satisfied: opencv-contrib-python in d:\1\envs\tf_env\lib\site-packages (4.11.0.86)
+Requirement already satisfied: numpy>=1.21.2 in d:\1\envs\tf_env\lib\site-packages (from opencv-contrib-python) (2.1.3)
